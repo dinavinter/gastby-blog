@@ -1980,7 +1980,7 @@ var _jsxFileName = "D:\\dina\\demo\\blog-dimenssion\\components\\post\\nss.js";
 function NSS() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Post__WEBPACK_IMPORTED_MODULE_1__["default"], {
     title: 'NSS',
-    video: 'E-VzQIHCut8',
+    video: 'OEoY6Iv4YoI',
     __self: this,
     __source: {
       fileName: _jsxFileName,
