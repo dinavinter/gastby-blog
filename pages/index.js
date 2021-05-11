@@ -88,7 +88,6 @@ class IndexPage extends React.Component {
                     <GigyaProvider apiKey={"3_WKO1lFJ4yMz4MtnHK0d5AqgOCaU3KdYerHvETiMWD5IZ9qv5ccQmyC7qkICVchrQ"}
                                    domain={"gigya.com"}>
                         <div id="wrapper">
-                             
                             <Header onOpenArticle={this.handleOpenArticle} timeout={this.state.timeout}/>
                             <Main
                                 isArticleVisible={this.state.isArticleVisible}

@@ -19,10 +19,17 @@ const Header = (props) => (
         </div>
         <nav>
             <ul>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('groups')}}>Groups</a></li>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('work')}}>Work</a></li>
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('about')}}>About</a></li>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('contact')}}>Contact</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('groups')}}>Groups</a></li> 
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('captcha')}}>Captcha</a></li> 
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('consent')}}>Consent</a></li> 
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('idx')}}>IDX</a></li> 
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('ato')}}>ATO</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('nss')}}>NSS</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('oauth')}}>OAuth</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('liteUi')}}>Lite</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('gai')}}>GAI</a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('fido')}}>Fido</a></li>
             </ul>
         </nav>
     </header>

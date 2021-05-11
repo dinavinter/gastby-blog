@@ -21,10 +21,10 @@ const textDisplay=active === 'text' ? 'block' : 'none';
     return <div>
         <div id="video_box" >
             <div id={`${video}-text`} className={`center align-center video_overlays ${active === 'text' ? 'active' : ''} timeout`}
-                     style={{display:textDisplay, 'vertical-align':"center"}}>
-              <TextLoop  springConfig={{ stiffness: 180, damping: 8 }} mask={true} interval={2000} >
+                     style={{display:textDisplay, 'verticalAlign':"center"}}>
+              {/*<TextLoop  springConfig={{ stiffness: 200, damping: 10 }} mask={true} interval={2000} >*/}
                     {children}
-                </TextLoop>
+                {/*</TextLoop>*/}
                 {goToVideo}
             </div>
  
