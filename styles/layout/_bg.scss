@@ -31,7 +31,7 @@
 			@include vendor('transition', 'background-color #{_duration(bg)} ease-in-out');
 			@include vendor('transition-delay', '#{_duration(intro)}');
 			background-image:		linear-gradient(to top, #{_palette(bg-overlay)}, #{_palette(bg-overlay)}),
-									url('/boombuy-dimension/static/images/overlay.png');
+									url('/gastby-blog/static/images/overlay.png');
 			background-size:		auto,
 									256px 256px;
 			background-position:	center,
@@ -47,7 +47,7 @@
 				'transform #{_duration(article)} ease-in-out',
 				'filter #{_duration(article)} ease-in-out'
 			));
-			background-image:		url('/boombuy-dimension/static/images/bg.jpg');
+			background-image:		url('/gastby-blog/static/images/bg.jpg');
 			background-position:	center;
 			background-size:		cover;
 			background-repeat:		no-repeat;

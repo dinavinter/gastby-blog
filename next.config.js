@@ -1,10 +1,11 @@
 const path = require('path')
 const glob = require('glob')
+const config= require('./config.js');
 
 const debug = process.env.NODE_ENV !== 'production'
 
 module.exports = {
-    assetPrefix: !debug ? '/boombuy-dimension' : '',
+    assetPrefix:config.assetPrefix,
   
     webpack: (config, {dev}) => {
         config.module.rules.push(

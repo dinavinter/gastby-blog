@@ -1,14 +1,14 @@
 {
-  "name": "boombuy-dimension",
+  "name": "gastby-blog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:dinavinter/boombuy-dimension.git"
+    "url": "git@github.com:dinavinter/gastby-blog.git"
   },
-  "homepage": "https://dinavinter.github.io/boombuy-dimension",
-  "scripts": {
+  "homepage": "https://dinavinter.github.io/gastby-blog/",
+  "scripts": { 
     "dev": "next",
     "build": "next build",
     "preexport": "npm run build",

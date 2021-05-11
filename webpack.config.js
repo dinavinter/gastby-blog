@@ -1,11 +1,10 @@
-const production = process.env.NODE_ENV === 'production'
-const  assetPrefix= production ? '/boombuy-dimension/' : '';
-
-module.exports = {
+const config= require('./config.js');
+ 
+ module.exports = {
     output: {
-        publicPath: assetPrefix
+        publicPath: config.assetPrefix
     },
-    pathPrefix: `/boombuy-dimension`, // This path is subpath of your hosting https://domain/portfolio
-    baseurl:`/boombuy-dimension`
+    pathPrefix: config.pathPrefix, // This path is subpath of your hosting https://domain/portfolio
+    baseurl:config.baseurl
 
 }

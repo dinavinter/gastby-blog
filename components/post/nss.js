@@ -2,7 +2,7 @@ import React from "react";
 import Post from "../Post";
 
 export default function NSS() {
-    return <Post  title={'NSS'} video={'E-VzQIHCut8'} >
+    return <Post  title={'NSS'} video={'OEoY6Iv4YoI'} >
 
         <span className={"center align-center"}   ><h1 className="minor align-center">NSS UI builder</h1></span>
         <span><h2 className="center align-center minor">We want our product to design the screensets</h2></span>
