@@ -1596,7 +1596,7 @@ var _jsxFileName = "D:\\dina\\demo\\blog-dimenssion\\components\\post\\consent.j
 function Consent() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Post__WEBPACK_IMPORTED_MODULE_1__["default"], {
     title: 'Consent',
-    video: 'mik09AsmGl0',
+    video: '_ynhbVnhROE',
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -39556,7 +39556,7 @@ var IndexPage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 92,
+          lineNumber: 91,
           columnNumber: 29
         }
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Main__WEBPACK_IMPORTED_MODULE_4__["default"], {
@@ -39568,7 +39568,7 @@ var IndexPage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 93,
+          lineNumber: 92,
           columnNumber: 29
         }
       }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_5__["default"], {
@@ -39576,7 +39576,7 @@ var IndexPage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 100,
+          lineNumber: 99,
           columnNumber: 29
         }
       }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -39584,7 +39584,7 @@ var IndexPage = /*#__PURE__*/function (_React$Component) {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 103,
+          lineNumber: 102,
           columnNumber: 21
         }
       })));
