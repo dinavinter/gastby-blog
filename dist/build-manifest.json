@@ -1,0 +1,25 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/index": [
+      "static/runtime/webpack.js.js",
+      "commons.js",
+      "static/runtime/main.js.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack.js.js",
+      "commons.js",
+      "static/runtime/main.js.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack.js.js",
+      "commons.js",
+      "static/runtime/main.js.js"
+    ],
+    "/": [
+      "static/runtime/webpack.js.js",
+      "commons.js",
+      "static/runtime/main.js.js"
+    ]
+  }
+}

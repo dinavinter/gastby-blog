@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.blog-dimenssion.iml
+# Datasource local storage ignored files
+/../../../../../../../:\dina\demo\blog-dimenssion\.idea\.idea.blog-dimenssion.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
